@@ -1,0 +1,14 @@
+langchain>=0.1.0
+langchain-community>=0.0.13
+langchain-mistralai>=0.0.3
+langchain-core>=0.1.10
+mistralai>=0.1.0
+faiss-cpu>=1.7.4
+flask>=2.0.0
+flask-restful>=0.3.10
+flask-cors>=4.0.0
+streamlit>=1.29.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+lxml>=4.9.3
